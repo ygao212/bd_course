@@ -125,10 +125,10 @@ def countWords(text: String) = {
     val counts = mutable.Map.empty[String, Int]
     for (rawWord <- text.split("[ ,!.]+")) {
     	if ( counts.contains{ rawWord } ) {
-    		counts + (counts(rawWord) -> counts(rawWord) + 1)
+    	   counts(rawWord) = counts(rawWord) + 1
     		} 
     	else {
-    		counts + (counts(rawWord) -> 1)
+    	   counts += (rawWord -> 1)
     		}
     }
     println(counts)
