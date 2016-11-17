@@ -124,16 +124,45 @@ val sampleText = "Scala is a general-purpose programming language. Scala has ful
 def countWords(text: String) = {
     val counts = mutable.Map.empty[String, Int]
     for (rawWord <- text.split("[ ,!.]+")) {
-    	if ( counts.contains{ rawWord } ) {
-    	   counts(rawWord) = counts(rawWord) + 1
+        val word = rawWord.toLowerCase()
+    	if ( counts.contains{ word } ) {
+    	   counts(word) = counts(word) + 1
     		} 
     	else {
-    	   counts += (rawWord -> 1)
+    	   counts += (word -> 1)
     		}
     }
-    println(counts)
+    for (element <- counts) { println(element) }
 }
 countWords(sampleText)
 
+
+// Map Types
+import scala.collection.SortedMap  
+val grades = SortedMap("Emily" -> 92, "Bob" -> 85, "Carol" -> 95, "Alice" -> 90, "Doug" -> 91)
+println(grades)
+
+
+// Stream
+def inc(i: Int): Stream[Int] = Stream.cons(i,inc(i+1))
+val s = inc(1)
+println(s)
+val l = s.take(10).toList
+println(l)
+def fib(a: Int, b:Int): Stream[Long] = Stream.cons(a,fib(b, a+b))
+val fibl = fib(1, 1).take(10).toList
+println(fibl)
+
+
+// File I/O
+import scala.io.Source
+if (args.length > 0) {
+    for ( line <- Source.fromFile(args(0)).getLines()) {
+        println(line.length + " " + line)
+    }
+}
+else {
+    Console.err.println("please enter filename")
+}
 
 
