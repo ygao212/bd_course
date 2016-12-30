@@ -1,0 +1,117 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp$$anonfun$1.class
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp$.class
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp.class
+binary dependencies:
+3 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Users/dorothykucar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> /Users/dorothykucar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> com.metis.bigdata.FirstSparkApp
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> com.metis.bigdata.FirstSparkApp$
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> com.metis.bigdata.FirstSparkApp$$anonfun$1
+used names:
+33 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> +
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> <init>
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> AnyRef
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> Array
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> FirstSparkApp
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> Predef
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> SparkConf
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> SparkContext
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> String
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> apache
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> apply
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> args
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> bigdata
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> com
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> contains
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> count
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> filename
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> filter
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> first
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> l
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> lines
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> metis
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> org
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> println
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> sc
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> scala
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> sconf
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> setAppName
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> spark
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> sparkLines
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> stop
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> textFile
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> toLowerCase
+product stamps:
+3 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp$$anonfun$1.class -> lastModified(1479496668000)
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp$.class -> lastModified(1479496668000)
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/target/scala-2.11/classes/com/metis/bigdata/FirstSparkApp.class -> lastModified(1479496668000)
+source stamps:
+1 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> hash(caa57658a3112b5451e43ad3643b16e2876fdd78)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1450827058000)
+/Users/dorothykucar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/dorothykucar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_71.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/dorothykucar/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkConf
+/Users/dorothykucar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Unit
+internal apis:
+1 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCn3/+fAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNfJ10p0AAZub3RpZnlzcQB+AAxYD/K3dAAEd2FpdHNxAH4ADNbTX6t0AA0kYXNJbnN0YW5jZU9mc3EAfgAMah/OFXQABmVxdWFsc3NxAH4ADHmm0+90AA1GaXJzdFNwYXJrQXBwc3EAfgAMRb2lS3QADGFzSW5zdGFuY2VPZnNxAH4ADOick5p0AAxzeW5jaHJvbml6ZWRzcQB+AAxsZNzvdAANJGlzSW5zdGFuY2VPZnNxAH4ADJsfCn90AARtYWluc3EAfgAMaw645HQACW5vdGlmeUFsbHNxAH4ADHwgk6N0AAxpc0luc3RhbmNlT2ZzcQB+AAzKYXZVdAACPT1zcQB+AAzCkcGTdAAFY2xvbmVzcQB+AAwPghfvdAAIdG9TdHJpbmdzcQB+AAwGfzIldAACIT1zcQB+AAyXsi2gdAAIZ2V0Q2xhc3NzcQB+AAyKAZaLdAACbmVzcQB+AAwgEtB8dAACZXFzcQB+AAzjstfGdAACIyNzcQB+AAygeWiSdAAIZmluYWxpemVzcQB+AAwGnMVzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAfY29tLm1ldGlzLmJpZ2RhdGEuRmlyc3RTcGFya0FwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGFzcQB+AHJ0AAVBcnJheXEAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHJ0AAZTdHJpbmdzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+dAAEamF2YXNxAH4AfnQABGxhbmdxAH4Ag3NxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgCXAAAAAnNxAH4AcnQABk9iamVjdHEAfgCbc3EAfgBydAADQW55cQB+AHh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABFjb20ubWV0aXMuYmlnZGF0YXNxAH4ArnQACWNvbS5tZXRpc3NxAH4ArnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWHjfSRp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL1VzZXJzL2Rvcm90aHlrdWNhci9naXQvbnljMTZfYmlnZGF0YTIvY2xhc3M3L2RlbW8vTXlGaXJzdEFwcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyqV2WKMRK1RR5DrTZDsW4odv3Xg=
+external apis:
+0 items
+source infos:
+1 items
+/Users/dorothykucar/git/nyc16_bigdata2/class7/demo/MyFirstApp/src/main/scala/com/metis/bigdata/FirstSparkApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWHjfSRp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9kb3JvdGh5a3VjYXIvZ2l0L255YzE2X2JpZ2RhdGEyL2NsYXNzNy9kZW1vL015Rmlyc3RBcHAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
